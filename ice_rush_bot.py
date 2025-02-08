@@ -11,7 +11,7 @@ from datetime import datetime
 
 # إعداد بيانات Telegram
 TELEGRAM_TOKEN = "8041160533:AAE2ZkeYiqg7qDi1eLcJa4Iwh4JEaRNDrVw"
-CHAT_IDS = ["1112926012"]  # معرفات Chat ID
+CHAT_IDS = ["1112926012", "7851677711", "6633625111", "799591241"]  # معرفات Chat ID
 
 # إرسال رسالة نصية إلى Telegram
 def send_telegram_message(message):
